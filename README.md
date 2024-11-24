@@ -1,6 +1,5 @@
-# Vigilant_Sentinels, 
-# Safeguarding Inboxes
-# SSENTINEL: A Pre-trained Model and Benchmark Suite for Advanced Email Spam Detection - This repo houses an advanced pre-trained spam detection model &amp; comprehensive benchmark suite. Leveraging state-of-the-art NLP, we aim to enhance precision, establish uniform evaluation, and drive spam detection innovations. 
+# Vigilant_Sentinels: Safeguarding Inboxes
+SSENTINEL: A Pre-trained Model and Benchmark Suite for Advanced Email Spam Detection - This repo houses an advanced pre-trained spam detection model &amp; comprehensive benchmark suite. Leveraging state-of-the-art NLP, we aim to enhance precision, establish uniform evaluation, and drive spam detection innovations. 
 
 Anas Alsobeh, Southern Illinois University Carbondale, IL, USA
 Izzat AlSmadi, Texas A&M, San Antonio, Texas, USA
